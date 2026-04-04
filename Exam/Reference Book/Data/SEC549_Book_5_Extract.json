@@ -1,0 +1,489 @@
+{
+  "name": "Book 5",
+  "total_pages": 103,
+  "topics": [
+    {
+      "title": "549.5",
+      "page": 1
+    },
+    {
+      "title": "Lab 5.1: Threat Model: Managing Cloud-Native Events",
+      "page": 4
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 5
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 5
+    },
+    {
+      "title": "Foundations",
+      "page": 5
+    },
+    {
+      "title": "Security Advisory Bulletins",
+      "page": 12
+    },
+    {
+      "title": "Threat Model: Managing",
+      "page": 19
+    },
+    {
+      "title": "Cloud-Native Events",
+      "page": 19
+    },
+    {
+      "title": "Lab 5.1",
+      "page": 19
+    },
+    {
+      "title": "Lab 5.1: Summary",
+      "page": 20
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 21
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 21
+    },
+    {
+      "title": "Foundations",
+      "page": 21
+    },
+    {
+      "title": "Event Router",
+      "page": 23
+    },
+    {
+      "title": "Cloud Events: Control-Plane Logging 101",
+      "page": 26
+    },
+    {
+      "title": "Control-Plane Layer Logging",
+      "page": 26
+    },
+    {
+      "title": "Control-Plane Logs By Cloud Provider",
+      "page": 27
+    },
+    {
+      "title": "Log Query",
+      "page": 27
+    },
+    {
+      "title": "Log Storage",
+      "page": 27
+    },
+    {
+      "title": "Service /",
+      "page": 27
+    },
+    {
+      "title": "Control-Plane Logs: Azure Activity Logs",
+      "page": 29
+    },
+    {
+      "title": "Control-Plane Logs: Azure Activity Log Events",
+      "page": 30
+    },
+    {
+      "title": "• Activity Log Events",
+      "page": 30
+    },
+    {
+      "title": "Control-Plane Logs: Azure Resource Logs",
+      "page": 31
+    },
+    {
+      "title": "• Azure Resource Log Events",
+      "page": 31
+    },
+    {
+      "title": "• Management-Plane Events",
+      "page": 33
+    },
+    {
+      "title": "Cloud Events: Network Layer Logging 101",
+      "page": 35
+    },
+    {
+      "title": "Storage / Retention",
+      "page": 36
+    },
+    {
+      "title": "Aggregation Interval",
+      "page": 36
+    },
+    {
+      "title": "Service / Log",
+      "page": 36
+    },
+    {
+      "title": "1. https://sec549.com/id518",
+      "page": 37
+    },
+    {
+      "title": "2. https://sec549.com/id519",
+      "page": 37
+    },
+    {
+      "title": "3. https://sec549.com/id520",
+      "page": 37
+    },
+    {
+      "title": "4. https://sec549.com/id521",
+      "page": 37
+    },
+    {
+      "title": "5. https://sec549.com/id522",
+      "page": 37
+    },
+    {
+      "title": "Destination / Quotas / Limit",
+      "page": 38
+    },
+    {
+      "title": "Service / Log",
+      "page": 38
+    },
+    {
+      "title": "Description",
+      "page": 40
+    },
+    {
+      "title": "Primary Concepts",
+      "page": 40
+    },
+    {
+      "title": "Service /",
+      "page": 40
+    },
+    {
+      "title": "Cloud Managed Detection Services",
+      "page": 44
+    },
+    {
+      "title": "Security Data Lake Benefits",
+      "page": 46
+    },
+    {
+      "title": "Security Data Lake Options",
+      "page": 47
+    },
+    {
+      "title": "Security Lake",
+      "page": 47
+    },
+    {
+      "title": "Cloud Data Aggregation Design Patterns",
+      "page": 49
+    },
+    {
+      "title": "Advantages / Disadvantages",
+      "page": 49
+    },
+    {
+      "title": "Log / Event Capture Pattern",
+      "page": 49
+    },
+    {
+      "title": "Azure: Centralized Logging Pattern",
+      "page": 51
+    },
+    {
+      "title": "Google Cloud: Centralized Logging Pattern",
+      "page": 52
+    },
+    {
+      "title": "• Random Resource Naming",
+      "page": 56
+    },
+    {
+      "title": "Cloud-Native Events",
+      "page": 58
+    },
+    {
+      "title": "Lab 5.2",
+      "page": 58
+    },
+    {
+      "title": "Lab 5.2: Summary",
+      "page": 59
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 60
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 60
+    },
+    {
+      "title": "Foundations",
+      "page": 60
+    },
+    {
+      "title": "Centralizing High-Value Cloud Log Sources",
+      "page": 61
+    },
+    {
+      "title": "Glue/ Lambda / S3",
+      "page": 63
+    },
+    {
+      "title": "References:",
+      "page": 65
+    },
+    {
+      "title": "Cribl: Centralized Data Processing Platform",
+      "page": 66
+    },
+    {
+      "title": "Reference:",
+      "page": 67
+    },
+    {
+      "title": "Public Cloud Data Transfer Patterns",
+      "page": 68
+    },
+    {
+      "title": "Push Architecture",
+      "page": 68
+    },
+    {
+      "title": "Pull Architecture",
+      "page": 68
+    },
+    {
+      "title": "Public Cloud Provider Data Transfer Services",
+      "page": 70
+    },
+    {
+      "title": "Description",
+      "page": 70
+    },
+    {
+      "title": "Services",
+      "page": 70
+    },
+    {
+      "title": "Provider",
+      "page": 70
+    },
+    {
+      "title": "Azure: Event Hub Log Export Pattern",
+      "page": 72
+    },
+    {
+      "title": "Reference:",
+      "page": 73
+    },
+    {
+      "title": "Lab 5.3",
+      "page": 74
+    },
+    {
+      "title": "Lab 5.3: Summary",
+      "page": 75
+    },
+    {
+      "title": "References:",
+      "page": 79
+    },
+    {
+      "title": "\"Version\": \"2012-10-17\",",
+      "page": 81
+    },
+    {
+      "title": "\"Statement\": [",
+      "page": 81
+    },
+    {
+      "title": "Lab 5.4",
+      "page": 82
+    },
+    {
+      "title": "Lab 5.4: Summary",
+      "page": 83
+    },
+    {
+      "title": "Google Cloud: Pub/Sub Log Export Pattern",
+      "page": 84
+    },
+    {
+      "title": "Pub/Sub Pull Subscription",
+      "page": 85
+    },
+    {
+      "title": "Microsoft Sentinel: Ingesting Google Cloud Logs",
+      "page": 86
+    },
+    {
+      "title": "Reference:",
+      "page": 87
+    },
+    {
+      "title": "Lab 5.5",
+      "page": 89
+    },
+    {
+      "title": "Lab 5.5: Summary",
+      "page": 90
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 91
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 91
+    },
+    {
+      "title": "Foundations",
+      "page": 91
+    },
+    {
+      "title": "Section 1: Cloud Account Management and Identity Foundations",
+      "page": 92
+    },
+    {
+      "title": "Section 2: Implementing an Identity Perimeter in the Cloud",
+      "page": 93
+    },
+    {
+      "title": "Section 3: Network Access Perimeters in the Cloud",
+      "page": 94
+    },
+    {
+      "title": "Section 4: Data Access Perimeters in the Cloud",
+      "page": 95
+    },
+    {
+      "title": "Section 5: Enabling the Cloud-Focused SOC",
+      "page": 96
+    },
+    {
+      "title": "Lab 5.6",
+      "page": 97
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 98
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 98
+    },
+    {
+      "title": "Foundations",
+      "page": 98
+    },
+    {
+      "title": "Cloud Security",
+      "page": 99
+    },
+    {
+      "title": "Threat Modeling Resources",
+      "page": 100
+    },
+    {
+      "title": "\"The Big Blue Book\"",
+      "page": 101
+    },
+    {
+      "title": "Security Architecture: A Business Drive",
+      "page": 101
+    },
+    {
+      "title": "Approach",
+      "page": 101
+    },
+    {
+      "title": "Cloud Security Training Environments",
+      "page": 102
+    }
+  ],
+  "cli_commands": [],
+  "key_terms": [
+    "DevSecOps",
+    "OIDC",
+    "SIEM",
+    "SSL",
+    "audit log",
+    "compliance",
+    "cross-account",
+    "flow log",
+    "governance",
+    "identity federation",
+    "incident response",
+    "least privilege",
+    "managed identity",
+    "private link",
+    "security group",
+    "service account",
+    "shared responsibility",
+    "single sign-on",
+    "workload identity",
+    "zero trust"
+  ],
+  "cloud_services": [
+    "AWS: CloudTrail",
+    "AWS: CloudWatch",
+    "AWS: Cognito",
+    "AWS: Config",
+    "AWS: DynamoDB",
+    "AWS: EC2",
+    "AWS: ECR",
+    "AWS: ECS",
+    "AWS: EKS",
+    "AWS: EventBridge",
+    "AWS: GuardDuty",
+    "AWS: IAM",
+    "AWS: KMS",
+    "AWS: Lambda",
+    "AWS: Organizations",
+    "AWS: RDS",
+    "AWS: S3",
+    "AWS: SQS",
+    "AWS: SSO",
+    "AWS: STS",
+    "AWS: SecurityHub",
+    "AWS: Transit Gateway",
+    "AWS: VPC",
+    "AWS: WAF",
+    "Azure: AKS",
+    "Azure: App Service",
+    "Azure: Azure AD",
+    "Azure: Bastion",
+    "Azure: Conditional Access",
+    "Azure: DDoS Protection",
+    "Azure: Defender for Cloud",
+    "Azure: Entra ID",
+    "Azure: Firewall",
+    "Azure: Functions",
+    "Azure: Key Vault",
+    "Azure: Log Analytics",
+    "Azure: Managed Identity",
+    "Azure: Monitor",
+    "Azure: NSG",
+    "Azure: Policy",
+    "Azure: Resource Manager",
+    "Azure: Sentinel",
+    "Azure: Storage Account",
+    "Azure: Virtual Network",
+    "GCP: Cloud Audit Logs",
+    "GCP: Cloud Functions",
+    "GCP: Cloud Logging",
+    "GCP: Cloud Monitoring",
+    "GCP: Cloud Run",
+    "GCP: Cloud Storage",
+    "GCP: GKE",
+    "GCP: Security Command Center",
+    "GCP: Workload Identity"
+  ],
+  "page_summaries": {}
+}

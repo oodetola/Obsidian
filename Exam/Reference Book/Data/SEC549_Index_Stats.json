@@ -1,0 +1,17 @@
+{
+  "pipeline_version": "v3-dictionary-enhanced",
+  "raw_entries": 11271,
+  "junk_suffixes_stripped": 54,
+  "underscore_prefixes_fixed": 10,
+  "final_clean_terms": 5877,
+  "code_path_refs": 212,
+  "total_final": 6089,
+  "removed_total": 5182,
+  "removed_pct": 46.0,
+  "page_zero_only": 134,
+  "fuzzy_merged": 3810,
+  "stop_words_removed": 181,
+  "garbled_removed": 1025,
+  "high_page_count_removed": 22,
+  "low_quality_removed": 0
+}

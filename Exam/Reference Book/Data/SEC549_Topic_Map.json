@@ -1,0 +1,1025 @@
+{
+  "Book 1": {
+    "pages": 144,
+    "cloud_services": [
+      "AWS: Config",
+      "AWS: EC2",
+      "AWS: ECR",
+      "AWS: GuardDuty",
+      "AWS: IAM",
+      "AWS: KMS",
+      "AWS: Lambda",
+      "AWS: Organizations",
+      "AWS: RDS",
+      "AWS: S3",
+      "AWS: SCP",
+      "AWS: SQS",
+      "AWS: SSO",
+      "AWS: STS",
+      "AWS: Secrets Manager",
+      "AWS: Service Control Policy",
+      "AWS: VPC",
+      "AWS: WAF",
+      "Azure: Active Directory",
+      "Azure: App Service",
+      "Azure: Azure AD",
+      "Azure: B2B",
+      "Azure: B2C",
+      "Azure: Bastion",
+      "Azure: Blueprints",
+      "Azure: Conditional Access",
+      "Azure: Defender for Cloud",
+      "Azure: Entra ID",
+      "Azure: Firewall",
+      "Azure: Functions",
+      "Azure: Key Vault",
+      "Azure: Managed Identity",
+      "Azure: Monitor",
+      "Azure: PIM",
+      "Azure: Policy",
+      "Azure: RBAC",
+      "Azure: Resource Manager",
+      "Azure: Storage Account",
+      "Azure: Virtual Network",
+      "GCP: Cloud IAM",
+      "GCP: Cloud Identity",
+      "GCP: Cloud KMS",
+      "GCP: Cloud Storage",
+      "GCP: Compute Engine",
+      "GCP: GKE",
+      "GCP: Organization Policy"
+    ],
+    "key_terms": [
+      "ABAC",
+      "CI/CD",
+      "DevSecOps",
+      "MFA",
+      "OAuth",
+      "OIDC",
+      "RBAC",
+      "SAML",
+      "SIEM",
+      "TLS",
+      "assume role",
+      "attribute-based",
+      "audit log",
+      "certificate",
+      "compliance",
+      "cross-account",
+      "firewall rule",
+      "flow log",
+      "governance",
+      "identity federation",
+      "incident response",
+      "least privilege",
+      "managed identity",
+      "microsegmentation",
+      "multi-factor authentication",
+      "network segmentation",
+      "policy-based",
+      "private link",
+      "role-based",
+      "security group",
+      "service account",
+      "single sign-on"
+    ],
+    "topics": [
+      {
+        "title": "549.1",
+        "page": 1
+      },
+      {
+        "title": "Cloud Account Management",
+        "page": 1
+      },
+      {
+        "title": "Cloud Account Management",
+        "page": 3
+      },
+      {
+        "title": "CLOUD SECURITY ARCHITECTURE",
+        "page": 3
+      },
+      {
+        "title": "Course Agenda",
+        "page": 4
+      },
+      {
+        "title": "Section 1: Cloud Account Management",
+        "page": 5
+      },
+      {
+        "title": "Section 2: Implementing an Identity",
+        "page": 5
+      },
+      {
+        "title": "Section 3: Network Access Perimeters",
+        "page": 5
+      },
+      {
+        "title": "Section 4: Data Access Perimeters in the Cloud",
+        "page": 6
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 7
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 7
+      },
+      {
+        "title": "Foundations",
+        "page": 7
+      },
+      {
+        "title": "Security Architecture Ahead!",
+        "page": 8
+      },
+      {
+        "title": "WARNING",
+        "page": 8
+      },
+      {
+        "title": "ARCHITECTURE",
+        "page": 8
+      },
+      {
+        "title": "References:",
+        "page": 10
+      },
+      {
+        "title": "1. Architect Definition & Meaning – Merriam-Webster – https://sec549.com/id106",
+        "page": 10
+      },
+      {
+        "title": "2. Security Definition & Meaning – Merriam-Webster – https://sec549.com/id107",
+        "page": 10
+      },
+      {
+        "title": "3. Solutions Definition & Meaning – Merriam-Webster – https://sec549.com/id108",
+        "page": 10
+      },
+      {
+        "title": "What Is Security Architecture?",
+        "page": 11
+      },
+      {
+        "title": "Good Architectural Design Helps Manage Complexity",
+        "page": 13
+      },
+      {
+        "title": "• Cost",
+        "page": 15
+      },
+      {
+        "title": "• Scalability",
+        "page": 15
+      },
+      {
+        "title": "1. Rehost",
+        "page": 17
+      },
+      {
+        "title": "• STRIDE",
+        "page": 21
+      },
+      {
+        "title": "Trust Boundaries",
+        "page": 26
+      },
+      {
+        "title": "1. https://sec549.com/id6",
+        "page": 28
+      },
+      {
+        "title": "Cloud Accounts Are Trust Zones",
+        "page": 29
+      },
+      {
+        "title": "The Traditional On-Premises Security Approach",
+        "page": 30
+      },
+      {
+        "title": "1. https://sec549.com/id11",
+        "page": 33
+      }
+    ],
+    "cli_commands_count": 0
+  },
+  "Book 2": {
+    "pages": 137,
+    "cloud_services": [
+      "AWS: CloudTrail",
+      "AWS: Cognito",
+      "AWS: Config",
+      "AWS: EC2",
+      "AWS: ECR",
+      "AWS: EKS",
+      "AWS: IAM",
+      "AWS: KMS",
+      "AWS: Lambda",
+      "AWS: Organizations",
+      "AWS: RDS",
+      "AWS: S3",
+      "AWS: SCP",
+      "AWS: SSO",
+      "AWS: STS",
+      "AWS: Service Control Policy",
+      "AWS: VPC",
+      "Azure: Active Directory",
+      "Azure: App Service",
+      "Azure: Azure AD",
+      "Azure: B2B",
+      "Azure: B2C",
+      "Azure: Bastion",
+      "Azure: Conditional Access",
+      "Azure: Entra ID",
+      "Azure: Firewall",
+      "Azure: Functions",
+      "Azure: Managed Identity",
+      "Azure: Monitor",
+      "Azure: Policy",
+      "Azure: RBAC",
+      "GCP: Binary Authorization",
+      "GCP: Cloud IAM",
+      "GCP: Cloud Identity",
+      "GCP: Cloud Run",
+      "GCP: Compute Engine",
+      "GCP: GKE",
+      "GCP: Organization Policy",
+      "GCP: Workload Identity"
+    ],
+    "key_terms": [
+      "ABAC",
+      "CI/CD",
+      "DevSecOps",
+      "JWT",
+      "MFA",
+      "OAuth",
+      "OIDC",
+      "RBAC",
+      "SAML",
+      "SSL",
+      "TLS",
+      "assume role",
+      "attribute-based",
+      "certificate",
+      "compliance",
+      "encryption in transit",
+      "firewall rule",
+      "identity federation",
+      "incident response",
+      "least privilege",
+      "managed identity",
+      "microsegmentation",
+      "multi-factor authentication",
+      "network segmentation",
+      "role-based",
+      "service account",
+      "workload identity",
+      "zero trust"
+    ],
+    "topics": [
+      {
+        "title": "549.2",
+        "page": 1
+      },
+      {
+        "title": "CLOUD SECURITY ARCHITECTURE",
+        "page": 3
+      },
+      {
+        "title": "Implementing Zero Trust Architecture",
+        "page": 4
+      },
+      {
+        "title": "Lab 2.1: Threat Model: Zero Trust Architecture",
+        "page": 4
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 5
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 5
+      },
+      {
+        "title": "Foundations",
+        "page": 5
+      },
+      {
+        "title": "• Identity System Components:",
+        "page": 6
+      },
+      {
+        "title": "What Is Zero Trust?",
+        "page": 8
+      },
+      {
+        "title": "Reference:",
+        "page": 9
+      },
+      {
+        "title": "Trust Model Of Information Security\"",
+        "page": 14
+      },
+      {
+        "title": "Starting Your Zero Trust Journey",
+        "page": 16
+      },
+      {
+        "title": "1. Client requests a service",
+        "page": 21
+      },
+      {
+        "title": "2. Control plane",
+        "page": 21
+      },
+      {
+        "title": "1. Details of a",
+        "page": 22
+      },
+      {
+        "title": "Threat Model: Zero",
+        "page": 28
+      },
+      {
+        "title": "Trust Architecture",
+        "page": 28
+      },
+      {
+        "title": "Lab 2.1",
+        "page": 28
+      },
+      {
+        "title": "Lab 2.1: Summary",
+        "page": 29
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 30
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 30
+      },
+      {
+        "title": "Foundations",
+        "page": 30
+      },
+      {
+        "title": "Conditional Access",
+        "page": 31
+      },
+      {
+        "title": "Conditional Access Is All About Context",
+        "page": 32
+      },
+      {
+        "title": "Conditional Access Comparison (1)",
+        "page": 33
+      },
+      {
+        "title": "Conditional Access Comparison (2)",
+        "page": 34
+      },
+      {
+        "title": "Okta / Auth0",
+        "page": 34
+      },
+      {
+        "title": "• Available Device Policy",
+        "page": 38
+      },
+      {
+        "title": "Options:",
+        "page": 38
+      },
+      {
+        "title": "Advanced Mode:",
+        "page": 39
+      }
+    ],
+    "cli_commands_count": 5
+  },
+  "Book 3": {
+    "pages": 151,
+    "cloud_services": [
+      "AWS: CloudFront",
+      "AWS: Config",
+      "AWS: Direct Connect",
+      "AWS: DynamoDB",
+      "AWS: EC2",
+      "AWS: ECR",
+      "AWS: IAM",
+      "AWS: Organizations",
+      "AWS: PrivateLink",
+      "AWS: RDS",
+      "AWS: Route 53",
+      "AWS: S3",
+      "AWS: SCP",
+      "AWS: SQS",
+      "AWS: SSO",
+      "AWS: STS",
+      "AWS: Secrets Manager",
+      "AWS: Service Control Policy",
+      "AWS: Shield",
+      "AWS: Systems Manager",
+      "AWS: Transit Gateway",
+      "AWS: VPC",
+      "AWS: WAF",
+      "Azure: Active Directory",
+      "Azure: App Service",
+      "Azure: Application Gateway",
+      "Azure: DDoS Protection",
+      "Azure: Defender for Cloud",
+      "Azure: ExpressRoute",
+      "Azure: Firewall",
+      "Azure: Front Door",
+      "Azure: Functions",
+      "Azure: Monitor",
+      "Azure: NSG",
+      "Azure: Policy",
+      "Azure: Private Endpoint",
+      "Azure: Resource Manager",
+      "Azure: Service Endpoint",
+      "Azure: Storage Account",
+      "Azure: Virtual Network",
+      "GCP: Cloud DNS",
+      "GCP: Cloud Logging",
+      "GCP: Cloud NAT",
+      "GCP: Cloud Storage",
+      "GCP: Cloud VPN",
+      "GCP: Compute Engine",
+      "GCP: Organization Policy",
+      "GCP: VPC Service Controls"
+    ],
+    "key_terms": [
+      "DevSecOps",
+      "IaC",
+      "NAT gateway",
+      "SIEM",
+      "TLS",
+      "attribute-based",
+      "audit log",
+      "compliance",
+      "cross-account",
+      "data exfiltration",
+      "firewall rule",
+      "flow log",
+      "governance",
+      "incident response",
+      "infrastructure as code",
+      "least privilege",
+      "microsegmentation",
+      "network ACL",
+      "network segmentation",
+      "peering",
+      "private link",
+      "security group",
+      "service account",
+      "service endpoint",
+      "zero trust"
+    ],
+    "topics": [
+      {
+        "title": "549.3",
+        "page": 1
+      },
+      {
+        "title": "Network Access Perimeters",
+        "page": 1
+      },
+      {
+        "title": "Network Access Perimeters",
+        "page": 3
+      },
+      {
+        "title": "CLOUD SECURITY ARCHITECTURE",
+        "page": 3
+      },
+      {
+        "title": "Lab 3.1: Threat Model: Centralizing Network Security",
+        "page": 4
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 5
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 5
+      },
+      {
+        "title": "Foundations",
+        "page": 5
+      },
+      {
+        "title": "Takeaways",
+        "page": 6
+      },
+      {
+        "title": "On-Premises Network Architecture",
+        "page": 7
+      },
+      {
+        "title": "• Pillar #3: Network & Environment",
+        "page": 8
+      },
+      {
+        "title": "Visibility & Analytics",
+        "page": 9
+      },
+      {
+        "title": "Cloud Network Architecture Challenges",
+        "page": 10
+      },
+      {
+        "title": "Cloud Network Architecture Building Blocks",
+        "page": 11
+      },
+      {
+        "title": "1.  Connectivity (via internet",
+        "page": 14
+      },
+      {
+        "title": "1.  Network Address Translation",
+        "page": 16
+      },
+      {
+        "title": "Common Route Table Types",
+        "page": 18
+      },
+      {
+        "title": "References:",
+        "page": 19
+      },
+      {
+        "title": "Gateway",
+        "page": 20
+      },
+      {
+        "title": "Azure: Route Table Targets",
+        "page": 22
+      },
+      {
+        "title": "Route Table Targets",
+        "page": 22
+      },
+      {
+        "title": "Virtual Appliance",
+        "page": 22
+      },
+      {
+        "title": "Route Table Targets",
+        "page": 23
+      },
+      {
+        "title": "• Stateful Network Controls",
+        "page": 24
+      },
+      {
+        "title": "Network Access Without Private Endpoints",
+        "page": 31
+      },
+      {
+        "title": "Containers, Applications",
+        "page": 31
+      },
+      {
+        "title": "Threat Model: Centralizing",
+        "page": 34
+      },
+      {
+        "title": "Network Security",
+        "page": 34
+      },
+      {
+        "title": "Lab 3.1",
+        "page": 34
+      },
+      {
+        "title": "Lab 3.1: Summary",
+        "page": 35
+      }
+    ],
+    "cli_commands_count": 0
+  },
+  "Book 4": {
+    "pages": 158,
+    "cloud_services": [
+      "AWS: Access Analyzer",
+      "AWS: CloudFront",
+      "AWS: CloudTrail",
+      "AWS: CloudWatch",
+      "AWS: Config",
+      "AWS: DynamoDB",
+      "AWS: ECR",
+      "AWS: ECS",
+      "AWS: EKS",
+      "AWS: GuardDuty",
+      "AWS: IAM",
+      "AWS: KMS",
+      "AWS: Macie",
+      "AWS: Organizations",
+      "AWS: PrivateLink",
+      "AWS: RDS",
+      "AWS: S3",
+      "AWS: SCP",
+      "AWS: SQS",
+      "AWS: SSO",
+      "AWS: STS",
+      "AWS: Secrets Manager",
+      "AWS: Service Control Policy",
+      "AWS: VPC",
+      "Azure: AKS",
+      "Azure: Active Directory",
+      "Azure: Azure AD",
+      "Azure: Conditional Access",
+      "Azure: Defender for Cloud",
+      "Azure: Entra ID",
+      "Azure: Firewall",
+      "Azure: Functions",
+      "Azure: Key Vault",
+      "Azure: Log Analytics",
+      "Azure: Managed Identity",
+      "Azure: Monitor",
+      "Azure: Policy",
+      "Azure: RBAC",
+      "Azure: Storage Account",
+      "GCP: Cloud Audit Logs",
+      "GCP: Cloud Functions",
+      "GCP: Cloud HSM",
+      "GCP: Cloud IAM",
+      "GCP: Cloud Identity",
+      "GCP: Cloud KMS",
+      "GCP: Cloud Logging",
+      "GCP: Cloud Storage",
+      "GCP: Compute Engine",
+      "GCP: GKE",
+      "GCP: Organization Policy",
+      "GCP: Security Command Center",
+      "GCP: VPC Service Controls",
+      "GCP: Workload Identity"
+    ],
+    "key_terms": [
+      "DevSecOps",
+      "IaC",
+      "MFA",
+      "OIDC",
+      "RBAC",
+      "SIEM",
+      "SSL",
+      "TLS",
+      "audit log",
+      "certificate",
+      "compliance",
+      "cross-account",
+      "data exfiltration",
+      "defense in depth",
+      "encryption at rest",
+      "governance",
+      "identity federation",
+      "incident response",
+      "infrastructure as code",
+      "key rotation",
+      "lateral movement",
+      "least privilege",
+      "managed identity",
+      "multi-factor authentication",
+      "private link",
+      "role-based",
+      "service account",
+      "workload identity",
+      "zero trust"
+    ],
+    "topics": [
+      {
+        "title": "549.4",
+        "page": 1
+      },
+      {
+        "title": "Data Access Perimeters",
+        "page": 1
+      },
+      {
+        "title": "CLOUD SECURITY ARCHITECTURE",
+        "page": 3
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 5
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 5
+      },
+      {
+        "title": "Foundations",
+        "page": 5
+      },
+      {
+        "title": "References:",
+        "page": 7
+      },
+      {
+        "title": "Perimeter-Based Security Limitations",
+        "page": 8
+      },
+      {
+        "title": "Zero Trust Data Security & Privacy",
+        "page": 9
+      },
+      {
+        "title": "1. Verify and secure all",
+        "page": 9
+      },
+      {
+        "title": "Data Security & Control Framework",
+        "page": 10
+      },
+      {
+        "title": "1.  Define: Discover the data and classify the",
+        "page": 10
+      },
+      {
+        "title": "2.  Dissect: Continuous analysis of integrity,",
+        "page": 10
+      },
+      {
+        "title": "Cloud-Native Data Security Framework References",
+        "page": 16
+      },
+      {
+        "title": "Well-Architected Framework Data Protection",
+        "page": 16
+      },
+      {
+        "title": "Cloud-Native Data Security Framework Best Practices",
+        "page": 17
+      },
+      {
+        "title": "Storage Service Security",
+        "page": 18
+      },
+      {
+        "title": "Data Protection Services",
+        "page": 18
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 19
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 19
+      },
+      {
+        "title": "Foundations",
+        "page": 19
+      },
+      {
+        "title": "Data Classification Matrix Example",
+        "page": 22
+      },
+      {
+        "title": "Public",
+        "page": 22
+      },
+      {
+        "title": "Internal",
+        "page": 22
+      },
+      {
+        "title": "Confidential",
+        "page": 22
+      },
+      {
+        "title": "Organization Tag Policies",
+        "page": 26
+      },
+      {
+        "title": "Azure Policy Built-In Tag Definitions",
+        "page": 28
+      },
+      {
+        "title": "Threat Model: Data Discovery",
+        "page": 31
+      },
+      {
+        "title": "Lab 4.1",
+        "page": 31
+      },
+      {
+        "title": "Lab 4.1: Summary",
+        "page": 32
+      }
+    ],
+    "cli_commands_count": 0
+  },
+  "Book 5": {
+    "pages": 103,
+    "cloud_services": [
+      "AWS: CloudTrail",
+      "AWS: CloudWatch",
+      "AWS: Cognito",
+      "AWS: Config",
+      "AWS: DynamoDB",
+      "AWS: EC2",
+      "AWS: ECR",
+      "AWS: ECS",
+      "AWS: EKS",
+      "AWS: EventBridge",
+      "AWS: GuardDuty",
+      "AWS: IAM",
+      "AWS: KMS",
+      "AWS: Lambda",
+      "AWS: Organizations",
+      "AWS: RDS",
+      "AWS: S3",
+      "AWS: SQS",
+      "AWS: SSO",
+      "AWS: STS",
+      "AWS: SecurityHub",
+      "AWS: Transit Gateway",
+      "AWS: VPC",
+      "AWS: WAF",
+      "Azure: AKS",
+      "Azure: App Service",
+      "Azure: Azure AD",
+      "Azure: Bastion",
+      "Azure: Conditional Access",
+      "Azure: DDoS Protection",
+      "Azure: Defender for Cloud",
+      "Azure: Entra ID",
+      "Azure: Firewall",
+      "Azure: Functions",
+      "Azure: Key Vault",
+      "Azure: Log Analytics",
+      "Azure: Managed Identity",
+      "Azure: Monitor",
+      "Azure: NSG",
+      "Azure: Policy",
+      "Azure: Resource Manager",
+      "Azure: Sentinel",
+      "Azure: Storage Account",
+      "Azure: Virtual Network",
+      "GCP: Cloud Audit Logs",
+      "GCP: Cloud Functions",
+      "GCP: Cloud Logging",
+      "GCP: Cloud Monitoring",
+      "GCP: Cloud Run",
+      "GCP: Cloud Storage",
+      "GCP: GKE",
+      "GCP: Security Command Center",
+      "GCP: Workload Identity"
+    ],
+    "key_terms": [
+      "DevSecOps",
+      "OIDC",
+      "SIEM",
+      "SSL",
+      "audit log",
+      "compliance",
+      "cross-account",
+      "flow log",
+      "governance",
+      "identity federation",
+      "incident response",
+      "least privilege",
+      "managed identity",
+      "private link",
+      "security group",
+      "service account",
+      "shared responsibility",
+      "single sign-on",
+      "workload identity",
+      "zero trust"
+    ],
+    "topics": [
+      {
+        "title": "549.5",
+        "page": 1
+      },
+      {
+        "title": "Lab 5.1: Threat Model: Managing Cloud-Native Events",
+        "page": 4
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 5
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 5
+      },
+      {
+        "title": "Foundations",
+        "page": 5
+      },
+      {
+        "title": "Security Advisory Bulletins",
+        "page": 12
+      },
+      {
+        "title": "Threat Model: Managing",
+        "page": 19
+      },
+      {
+        "title": "Cloud-Native Events",
+        "page": 19
+      },
+      {
+        "title": "Lab 5.1",
+        "page": 19
+      },
+      {
+        "title": "Lab 5.1: Summary",
+        "page": 20
+      },
+      {
+        "title": "Course Roadmap",
+        "page": 21
+      },
+      {
+        "title": "Section 1: Cloud Account",
+        "page": 21
+      },
+      {
+        "title": "Foundations",
+        "page": 21
+      },
+      {
+        "title": "Event Router",
+        "page": 23
+      },
+      {
+        "title": "Cloud Events: Control-Plane Logging 101",
+        "page": 26
+      },
+      {
+        "title": "Control-Plane Layer Logging",
+        "page": 26
+      },
+      {
+        "title": "Control-Plane Logs By Cloud Provider",
+        "page": 27
+      },
+      {
+        "title": "Log Query",
+        "page": 27
+      },
+      {
+        "title": "Log Storage",
+        "page": 27
+      },
+      {
+        "title": "Service /",
+        "page": 27
+      },
+      {
+        "title": "Control-Plane Logs: Azure Activity Logs",
+        "page": 29
+      },
+      {
+        "title": "Control-Plane Logs: Azure Activity Log Events",
+        "page": 30
+      },
+      {
+        "title": "• Activity Log Events",
+        "page": 30
+      },
+      {
+        "title": "Control-Plane Logs: Azure Resource Logs",
+        "page": 31
+      },
+      {
+        "title": "• Azure Resource Log Events",
+        "page": 31
+      },
+      {
+        "title": "• Management-Plane Events",
+        "page": 33
+      },
+      {
+        "title": "Cloud Events: Network Layer Logging 101",
+        "page": 35
+      },
+      {
+        "title": "Storage / Retention",
+        "page": 36
+      },
+      {
+        "title": "Aggregation Interval",
+        "page": 36
+      },
+      {
+        "title": "Service / Log",
+        "page": 36
+      }
+    ],
+    "cli_commands_count": 0
+  }
+}

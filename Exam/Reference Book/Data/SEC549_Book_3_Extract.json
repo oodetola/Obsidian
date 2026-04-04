@@ -1,0 +1,537 @@
+{
+  "name": "Book 3",
+  "total_pages": 151,
+  "topics": [
+    {
+      "title": "549.3",
+      "page": 1
+    },
+    {
+      "title": "Network Access Perimeters",
+      "page": 1
+    },
+    {
+      "title": "Network Access Perimeters",
+      "page": 3
+    },
+    {
+      "title": "CLOUD SECURITY ARCHITECTURE",
+      "page": 3
+    },
+    {
+      "title": "Lab 3.1: Threat Model: Centralizing Network Security",
+      "page": 4
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 5
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 5
+    },
+    {
+      "title": "Foundations",
+      "page": 5
+    },
+    {
+      "title": "Takeaways",
+      "page": 6
+    },
+    {
+      "title": "On-Premises Network Architecture",
+      "page": 7
+    },
+    {
+      "title": "• Pillar #3: Network & Environment",
+      "page": 8
+    },
+    {
+      "title": "Visibility & Analytics",
+      "page": 9
+    },
+    {
+      "title": "Cloud Network Architecture Challenges",
+      "page": 10
+    },
+    {
+      "title": "Cloud Network Architecture Building Blocks",
+      "page": 11
+    },
+    {
+      "title": "1.  Connectivity (via internet",
+      "page": 14
+    },
+    {
+      "title": "1.  Network Address Translation",
+      "page": 16
+    },
+    {
+      "title": "Common Route Table Types",
+      "page": 18
+    },
+    {
+      "title": "References:",
+      "page": 19
+    },
+    {
+      "title": "Gateway",
+      "page": 20
+    },
+    {
+      "title": "Azure: Route Table Targets",
+      "page": 22
+    },
+    {
+      "title": "Route Table Targets",
+      "page": 22
+    },
+    {
+      "title": "Virtual Appliance",
+      "page": 22
+    },
+    {
+      "title": "Route Table Targets",
+      "page": 23
+    },
+    {
+      "title": "• Stateful Network Controls",
+      "page": 24
+    },
+    {
+      "title": "Network Access Without Private Endpoints",
+      "page": 31
+    },
+    {
+      "title": "Containers, Applications",
+      "page": 31
+    },
+    {
+      "title": "Threat Model: Centralizing",
+      "page": 34
+    },
+    {
+      "title": "Network Security",
+      "page": 34
+    },
+    {
+      "title": "Lab 3.1",
+      "page": 34
+    },
+    {
+      "title": "Lab 3.1: Summary",
+      "page": 35
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 36
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 36
+    },
+    {
+      "title": "Foundations",
+      "page": 36
+    },
+    {
+      "title": "• Requirements:",
+      "page": 38
+    },
+    {
+      "title": "References:",
+      "page": 39
+    },
+    {
+      "title": "Network",
+      "page": 40
+    },
+    {
+      "title": "Service Control Policy: Disable Subnet Sharing",
+      "page": 41
+    },
+    {
+      "title": "Service Control Policy: Disable Network Connectivity",
+      "page": 42
+    },
+    {
+      "title": "Azure Network Management – Leveraging Resource Groups",
+      "page": 44
+    },
+    {
+      "title": "1. https://sec549.com/id140",
+      "page": 47
+    },
+    {
+      "title": "Firewall Manager Audit Policies",
+      "page": 49
+    },
+    {
+      "title": "Google Cloud Hierarchical Firewall Policies",
+      "page": 50
+    },
+    {
+      "title": "References:",
+      "page": 52
+    },
+    {
+      "title": "Misconfigurations",
+      "page": 53
+    },
+    {
+      "title": "Lab 3.2",
+      "page": 53
+    },
+    {
+      "title": "Lab 3.2: Summary",
+      "page": 54
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 55
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 55
+    },
+    {
+      "title": "Foundations",
+      "page": 55
+    },
+    {
+      "title": "Cloud Network Segmentation Challenges",
+      "page": 56
+    },
+    {
+      "title": "Cloud Network Segmentation Complexity",
+      "page": 57
+    },
+    {
+      "title": "Cloud Network Micro-Segmentation",
+      "page": 59
+    },
+    {
+      "title": "Connectivity Between Micro-Networks",
+      "page": 61
+    },
+    {
+      "title": "1. Use internet routing",
+      "page": 61
+    },
+    {
+      "title": "2. Configure VPC peering",
+      "page": 61
+    },
+    {
+      "title": "Lab 3.3",
+      "page": 68
+    },
+    {
+      "title": "Lab 3.3: Summary",
+      "page": 69
+    },
+    {
+      "title": "Google Cloud Network Connectivity Center",
+      "page": 73
+    },
+    {
+      "title": "Hub Attachments/Connections",
+      "page": 74
+    },
+    {
+      "title": "References:",
+      "page": 75
+    },
+    {
+      "title": "References:",
+      "page": 77
+    },
+    {
+      "title": "Egress Spoke Network",
+      "page": 78
+    },
+    {
+      "title": "Lab 3.4",
+      "page": 79
+    },
+    {
+      "title": "Lab 3.4: Summary",
+      "page": 80
+    },
+    {
+      "title": "Hybrid Cloud Network Architecture",
+      "page": 81
+    },
+    {
+      "title": "Hybrid/Multi-Cloud Connection Types",
+      "page": 82
+    },
+    {
+      "title": "Reference:",
+      "page": 84
+    },
+    {
+      "title": "Lab 3.5",
+      "page": 88
+    },
+    {
+      "title": "Lab 3.5: Summary",
+      "page": 89
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 90
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 90
+    },
+    {
+      "title": "Foundations",
+      "page": 90
+    },
+    {
+      "title": "References:",
+      "page": 92
+    },
+    {
+      "title": "North-South Traffic Inspection Policies",
+      "page": 94
+    },
+    {
+      "title": "East-West Traffic Inspection Policies",
+      "page": 95
+    },
+    {
+      "title": "Kubernetes: East-West Traffic Inspection Policies",
+      "page": 96
+    },
+    {
+      "title": "Reference:",
+      "page": 99
+    },
+    {
+      "title": "Default",
+      "page": 100
+    },
+    {
+      "title": "Inspection Network High Availability Considerations",
+      "page": 102
+    },
+    {
+      "title": "Load Balancing Inspection Network Traffic",
+      "page": 103
+    },
+    {
+      "title": "Inbound Public Services Inspection Patterns",
+      "page": 105
+    },
+    {
+      "title": "References:",
+      "page": 106
+    },
+    {
+      "title": "Routing",
+      "page": 109
+    },
+    {
+      "title": "Lab 3.6",
+      "page": 109
+    },
+    {
+      "title": "Lab 3.6: Summary",
+      "page": 110
+    },
+    {
+      "title": "Firewall",
+      "page": 115
+    },
+    {
+      "title": "Lab 3.7",
+      "page": 115
+    },
+    {
+      "title": "Lab 3.7: Summary",
+      "page": 116
+    },
+    {
+      "title": "Network Firewall Considerations",
+      "page": 117
+    },
+    {
+      "title": "References:",
+      "page": 118
+    },
+    {
+      "title": "Palo Alto Security Policy Rules",
+      "page": 119
+    },
+    {
+      "title": "Delos Azure Active/Passive Palo Alto Firewall Architecture",
+      "page": 122
+    },
+    {
+      "title": "Firewall",
+      "page": 123
+    },
+    {
+      "title": "Lab 3.8",
+      "page": 123
+    },
+    {
+      "title": "Lab 3.8: Summary",
+      "page": 124
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 125
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 125
+    },
+    {
+      "title": "Foundations",
+      "page": 125
+    },
+    {
+      "title": "Public Shared Network Services",
+      "page": 126
+    },
+    {
+      "title": "Public Shared Network Services Routing & Risks",
+      "page": 127
+    },
+    {
+      "title": "References:",
+      "page": 128
+    },
+    {
+      "title": "• Azure Virtual Network Service Endpoints",
+      "page": 129
+    },
+    {
+      "title": "• Private Google Access",
+      "page": 130
+    },
+    {
+      "title": "1. https://sec549.com/id153",
+      "page": 131
+    },
+    {
+      "title": "2. https://sec549.com/id154",
+      "page": 131
+    },
+    {
+      "title": "• Connects:",
+      "page": 132
+    },
+    {
+      "title": "Private Shared Network Service Access",
+      "page": 137
+    },
+    {
+      "title": "Centralizing Private Network Access",
+      "page": 140
+    },
+    {
+      "title": "References:",
+      "page": 143
+    },
+    {
+      "title": "Route53 Private Hosted Zones",
+      "page": 144
+    },
+    {
+      "title": "Centralized Shared Services Architecture",
+      "page": 148
+    },
+    {
+      "title": "Service Access",
+      "page": 150
+    },
+    {
+      "title": "Lab 3.9",
+      "page": 150
+    }
+  ],
+  "cli_commands": [],
+  "key_terms": [
+    "DevSecOps",
+    "IaC",
+    "NAT gateway",
+    "SIEM",
+    "TLS",
+    "attribute-based",
+    "audit log",
+    "compliance",
+    "cross-account",
+    "data exfiltration",
+    "firewall rule",
+    "flow log",
+    "governance",
+    "incident response",
+    "infrastructure as code",
+    "least privilege",
+    "microsegmentation",
+    "network ACL",
+    "network segmentation",
+    "peering",
+    "private link",
+    "security group",
+    "service account",
+    "service endpoint",
+    "zero trust"
+  ],
+  "cloud_services": [
+    "AWS: CloudFront",
+    "AWS: Config",
+    "AWS: Direct Connect",
+    "AWS: DynamoDB",
+    "AWS: EC2",
+    "AWS: ECR",
+    "AWS: IAM",
+    "AWS: Organizations",
+    "AWS: PrivateLink",
+    "AWS: RDS",
+    "AWS: Route 53",
+    "AWS: S3",
+    "AWS: SCP",
+    "AWS: SQS",
+    "AWS: SSO",
+    "AWS: STS",
+    "AWS: Secrets Manager",
+    "AWS: Service Control Policy",
+    "AWS: Shield",
+    "AWS: Systems Manager",
+    "AWS: Transit Gateway",
+    "AWS: VPC",
+    "AWS: WAF",
+    "Azure: Active Directory",
+    "Azure: App Service",
+    "Azure: Application Gateway",
+    "Azure: DDoS Protection",
+    "Azure: Defender for Cloud",
+    "Azure: ExpressRoute",
+    "Azure: Firewall",
+    "Azure: Front Door",
+    "Azure: Functions",
+    "Azure: Monitor",
+    "Azure: NSG",
+    "Azure: Policy",
+    "Azure: Private Endpoint",
+    "Azure: Resource Manager",
+    "Azure: Service Endpoint",
+    "Azure: Storage Account",
+    "Azure: Virtual Network",
+    "GCP: Cloud DNS",
+    "GCP: Cloud Logging",
+    "GCP: Cloud NAT",
+    "GCP: Cloud Storage",
+    "GCP: Cloud VPN",
+    "GCP: Compute Engine",
+    "GCP: Organization Policy",
+    "GCP: VPC Service Controls"
+  ],
+  "page_summaries": {}
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "book": "Book 2",
+    "page": 45,
+    "command": "aws sso login"
+  },
+  {
+    "book": "Book 2",
+    "page": 105,
+    "command": "gcloud auth active-service-account"
+  },
+  {
+    "book": "Book 2",
+    "page": 122,
+    "command": "curl -s \"http://169.254.169.254/metadata/identity/oauth2/token?api-"
+  },
+  {
+    "book": "Book 2",
+    "page": 127,
+    "command": "aws sts assume-role-with-web-identity --role-arn \"arn:aws:iam::111111111111:role/nymeria-workload-identity-role\" -- role-session-name"
+  },
+  {
+    "book": "Book 2",
+    "page": 133,
+    "command": "gcloud auth login --cred-file=/home/ubuntu/nymeria-workload- identity.json"
+  }
+]

@@ -1,0 +1,510 @@
+{
+  "name": "Book 4",
+  "total_pages": 158,
+  "topics": [
+    {
+      "title": "549.4",
+      "page": 1
+    },
+    {
+      "title": "Data Access Perimeters",
+      "page": 1
+    },
+    {
+      "title": "CLOUD SECURITY ARCHITECTURE",
+      "page": 3
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 5
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 5
+    },
+    {
+      "title": "Foundations",
+      "page": 5
+    },
+    {
+      "title": "References:",
+      "page": 7
+    },
+    {
+      "title": "Perimeter-Based Security Limitations",
+      "page": 8
+    },
+    {
+      "title": "Zero Trust Data Security & Privacy",
+      "page": 9
+    },
+    {
+      "title": "1. Verify and secure all",
+      "page": 9
+    },
+    {
+      "title": "Data Security & Control Framework",
+      "page": 10
+    },
+    {
+      "title": "1.  Define: Discover the data and classify the",
+      "page": 10
+    },
+    {
+      "title": "2.  Dissect: Continuous analysis of integrity,",
+      "page": 10
+    },
+    {
+      "title": "Cloud-Native Data Security Framework References",
+      "page": 16
+    },
+    {
+      "title": "Well-Architected Framework Data Protection",
+      "page": 16
+    },
+    {
+      "title": "Cloud-Native Data Security Framework Best Practices",
+      "page": 17
+    },
+    {
+      "title": "Storage Service Security",
+      "page": 18
+    },
+    {
+      "title": "Data Protection Services",
+      "page": 18
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 19
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 19
+    },
+    {
+      "title": "Foundations",
+      "page": 19
+    },
+    {
+      "title": "Data Classification Matrix Example",
+      "page": 22
+    },
+    {
+      "title": "Public",
+      "page": 22
+    },
+    {
+      "title": "Internal",
+      "page": 22
+    },
+    {
+      "title": "Confidential",
+      "page": 22
+    },
+    {
+      "title": "Organization Tag Policies",
+      "page": 26
+    },
+    {
+      "title": "Azure Policy Built-In Tag Definitions",
+      "page": 28
+    },
+    {
+      "title": "Threat Model: Data Discovery",
+      "page": 31
+    },
+    {
+      "title": "Lab 4.1",
+      "page": 31
+    },
+    {
+      "title": "Lab 4.1: Summary",
+      "page": 32
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 33
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 33
+    },
+    {
+      "title": "Foundations",
+      "page": 33
+    },
+    {
+      "title": "References:",
+      "page": 37
+    },
+    {
+      "title": "Reference:",
+      "page": 41
+    },
+    {
+      "title": "Azure Storage Lifecycle Management",
+      "page": 42
+    },
+    {
+      "title": "• Storage Access Logs",
+      "page": 43
+    },
+    {
+      "title": "References:",
+      "page": 44
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 45
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 45
+    },
+    {
+      "title": "Foundations",
+      "page": 45
+    },
+    {
+      "title": "• Serving Static Web Content",
+      "page": 51
+    },
+    {
+      "title": "• The S3 Prefix",
+      "page": 54
+    },
+    {
+      "title": "1. VPC Endpoint Policy Conditions",
+      "page": 59
+    },
+    {
+      "title": "Through Access Points",
+      "page": 60
+    },
+    {
+      "title": "Lab 4.2",
+      "page": 60
+    },
+    {
+      "title": "Lab 4.2: Summary",
+      "page": 61
+    },
+    {
+      "title": "Google Drive, Cloud",
+      "page": 63
+    },
+    {
+      "title": "References:",
+      "page": 64
+    },
+    {
+      "title": "Reference:",
+      "page": 71
+    },
+    {
+      "title": "References:",
+      "page": 73
+    },
+    {
+      "title": "1. Authorize access for",
+      "page": 77
+    },
+    {
+      "title": "2. Add the Park 5 group",
+      "page": 77
+    },
+    {
+      "title": "References:",
+      "page": 79
+    },
+    {
+      "title": "1. The Park 5 user",
+      "page": 81
+    },
+    {
+      "title": "Lake Design",
+      "page": 90
+    },
+    {
+      "title": "Lab 4.3",
+      "page": 90
+    },
+    {
+      "title": "Lab 4.3: Summary",
+      "page": 91
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 92
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 92
+    },
+    {
+      "title": "Foundations",
+      "page": 92
+    },
+    {
+      "title": "Cloud Encryption Key Management",
+      "page": 93
+    },
+    {
+      "title": "Server-Side Encryption",
+      "page": 94
+    },
+    {
+      "title": "Client-Side Encryption",
+      "page": 95
+    },
+    {
+      "title": "References:",
+      "page": 96
+    },
+    {
+      "title": "Cloud Key Management Options",
+      "page": 97
+    },
+    {
+      "title": "References:",
+      "page": 98
+    },
+    {
+      "title": "Cloud Envelope Encryption Workflow",
+      "page": 100
+    },
+    {
+      "title": "References:",
+      "page": 101
+    },
+    {
+      "title": "Cloud Envelope Decryption Workflow",
+      "page": 102
+    },
+    {
+      "title": "Cloud-Managed Encryption Key Architecture",
+      "page": 103
+    },
+    {
+      "title": "Cloud-Managed Key Architecture Considerations",
+      "page": 104
+    },
+    {
+      "title": "Cloud-Managed Key Policy Example",
+      "page": 105
+    },
+    {
+      "title": "\"Action\": [",
+      "page": 106
+    },
+    {
+      "title": "Customer-Managed Encryption Key Architecture",
+      "page": 107
+    },
+    {
+      "title": "Decentralized Customer-Managed Encryption Key Architecture",
+      "page": 108
+    },
+    {
+      "title": "Customer-Managed Key Architecture Considerations",
+      "page": 109
+    },
+    {
+      "title": "• Key Management: Key",
+      "page": 109
+    },
+    {
+      "title": "Reference:",
+      "page": 110
+    },
+    {
+      "title": "Customer-Managed Encryption Key Sharing",
+      "page": 111
+    },
+    {
+      "title": "• Azure Subscription",
+      "page": 111
+    },
+    {
+      "title": "Azure Customer-Managed Encryption Key Architecture",
+      "page": 112
+    },
+    {
+      "title": "Reference:",
+      "page": 113
+    },
+    {
+      "title": "Managed Key Architecture",
+      "page": 114
+    },
+    {
+      "title": "Lab 4.4",
+      "page": 114
+    },
+    {
+      "title": "Lab 4.4: Summary",
+      "page": 115
+    },
+    {
+      "title": "Google Cloud Customer-Managed Encryption Key Architecture",
+      "page": 116
+    },
+    {
+      "title": "• Cloud Storage Accounts:",
+      "page": 116
+    },
+    {
+      "title": "Encryption Key Architecture",
+      "page": 117
+    },
+    {
+      "title": "Lab 4.5",
+      "page": 117
+    },
+    {
+      "title": "Lab 4.5: Summary",
+      "page": 118
+    },
+    {
+      "title": "Administrators",
+      "page": 123
+    },
+    {
+      "title": "References:",
+      "page": 126
+    },
+    {
+      "title": "Encryption Key Architecture",
+      "page": 133
+    },
+    {
+      "title": "Lab 4.6",
+      "page": 133
+    },
+    {
+      "title": "Lab 4.6: Summary",
+      "page": 134
+    },
+    {
+      "title": "Course Roadmap",
+      "page": 135
+    },
+    {
+      "title": "Section 1: Cloud Account",
+      "page": 135
+    },
+    {
+      "title": "Foundations",
+      "page": 135
+    },
+    {
+      "title": "• Benefits",
+      "page": 137
+    },
+    {
+      "title": "Disaster Recovery Data Replication Options",
+      "page": 147
+    },
+    {
+      "title": "5. Cross-Cloud Backups with Enhanced Credential Security",
+      "page": 151
+    },
+    {
+      "title": "4. Build the Google Cloud Function to Sync Azure Storage Using AzCopy",
+      "page": 155
+    },
+    {
+      "title": "Lab 4.7",
+      "page": 157
+    }
+  ],
+  "cli_commands": [],
+  "key_terms": [
+    "DevSecOps",
+    "IaC",
+    "MFA",
+    "OIDC",
+    "RBAC",
+    "SIEM",
+    "SSL",
+    "TLS",
+    "audit log",
+    "certificate",
+    "compliance",
+    "cross-account",
+    "data exfiltration",
+    "defense in depth",
+    "encryption at rest",
+    "governance",
+    "identity federation",
+    "incident response",
+    "infrastructure as code",
+    "key rotation",
+    "lateral movement",
+    "least privilege",
+    "managed identity",
+    "multi-factor authentication",
+    "private link",
+    "role-based",
+    "service account",
+    "workload identity",
+    "zero trust"
+  ],
+  "cloud_services": [
+    "AWS: Access Analyzer",
+    "AWS: CloudFront",
+    "AWS: CloudTrail",
+    "AWS: CloudWatch",
+    "AWS: Config",
+    "AWS: DynamoDB",
+    "AWS: ECR",
+    "AWS: ECS",
+    "AWS: EKS",
+    "AWS: GuardDuty",
+    "AWS: IAM",
+    "AWS: KMS",
+    "AWS: Macie",
+    "AWS: Organizations",
+    "AWS: PrivateLink",
+    "AWS: RDS",
+    "AWS: S3",
+    "AWS: SCP",
+    "AWS: SQS",
+    "AWS: SSO",
+    "AWS: STS",
+    "AWS: Secrets Manager",
+    "AWS: Service Control Policy",
+    "AWS: VPC",
+    "Azure: AKS",
+    "Azure: Active Directory",
+    "Azure: Azure AD",
+    "Azure: Conditional Access",
+    "Azure: Defender for Cloud",
+    "Azure: Entra ID",
+    "Azure: Firewall",
+    "Azure: Functions",
+    "Azure: Key Vault",
+    "Azure: Log Analytics",
+    "Azure: Managed Identity",
+    "Azure: Monitor",
+    "Azure: Policy",
+    "Azure: RBAC",
+    "Azure: Storage Account",
+    "GCP: Cloud Audit Logs",
+    "GCP: Cloud Functions",
+    "GCP: Cloud HSM",
+    "GCP: Cloud IAM",
+    "GCP: Cloud Identity",
+    "GCP: Cloud KMS",
+    "GCP: Cloud Logging",
+    "GCP: Cloud Storage",
+    "GCP: Compute Engine",
+    "GCP: GKE",
+    "GCP: Organization Policy",
+    "GCP: Security Command Center",
+    "GCP: VPC Service Controls",
+    "GCP: Workload Identity"
+  ],
+  "page_summaries": {}
+}
